@@ -3,7 +3,7 @@ A p5.js script for generating covers for the book, Cloud Atlas by David Mitchell
 
 <img src="Screenshots/IMG_1038.jpg" width="200">
 
-Final book cover
+Final book cover with text added using Photoshop:
 
 <img src="Screenshots/CLOUDATLAS_COVER_II.jpg" width="200">
 
